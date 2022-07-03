@@ -1,0 +1,16 @@
+C:\Users\Nikolay\source\repos\OpenGLTest\OpenGLTest\bin\Debug\OpenGLTest.exe.config
+C:\Users\Nikolay\source\repos\OpenGLTest\OpenGLTest\bin\Debug\OpenGLTest.exe
+C:\Users\Nikolay\source\repos\OpenGLTest\OpenGLTest\bin\Debug\OpenGLTest.pdb
+C:\Users\Nikolay\source\repos\OpenGLTest\OpenGLTest\bin\Debug\Tao.FreeGlut.dll
+C:\Users\Nikolay\source\repos\OpenGLTest\OpenGLTest\bin\Debug\Tao.OpenGl.dll
+C:\Users\Nikolay\source\repos\OpenGLTest\OpenGLTest\bin\Debug\Tao.Platform.Windows.dll
+C:\Users\Nikolay\source\repos\OpenGLTest\OpenGLTest\bin\Debug\Tao.FreeGlut.xml
+C:\Users\Nikolay\source\repos\OpenGLTest\OpenGLTest\bin\Debug\Tao.OpenGl.xml
+C:\Users\Nikolay\source\repos\OpenGLTest\OpenGLTest\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Nikolay\source\repos\OpenGLTest\OpenGLTest\obj\Debug\OpenGLTest.csproj.AssemblyReference.cache
+C:\Users\Nikolay\source\repos\OpenGLTest\OpenGLTest\obj\Debug\OpenGLTest.Form1.resources
+C:\Users\Nikolay\source\repos\OpenGLTest\OpenGLTest\obj\Debug\OpenGLTest.Properties.Resources.resources
+C:\Users\Nikolay\source\repos\OpenGLTest\OpenGLTest\obj\Debug\OpenGLTest.csproj.GenerateResource.cache
+C:\Users\Nikolay\source\repos\OpenGLTest\OpenGLTest\obj\Debug\OpenGLTest.csproj.CoreCompileInputs.cache
+C:\Users\Nikolay\source\repos\OpenGLTest\OpenGLTest\obj\Debug\OpenGLTest.exe
+C:\Users\Nikolay\source\repos\OpenGLTest\OpenGLTest\obj\Debug\OpenGLTest.pdb
